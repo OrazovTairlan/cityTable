@@ -1,0 +1,66 @@
+table.iksweb{
+    width: 100%;
+    border-collapse:collapse;
+    border-spacing:0;
+    height: auto;
+}
+table.iksweb,table.iksweb td, table.iksweb th {
+    border: 1px solid #595959;
+}
+table.iksweb td,table.iksweb th {
+    padding: 3px;
+    width: 30px;
+    height: 35px;
+}
+table.iksweb th {
+    background: #347c99;
+    color: #fff;
+    font-weight: normal;
+}
+.cell {
+    display: flex;
+}
+
+.d {
+    padding: 17px;
+    border-right: 1px solid black;
+}
+
+.c {
+    padding: 17px;
+}
+.female {
+    display: flex;
+    align-items: center;
+    padding: 17px;
+}
+.cell{
+    border: 1px solid black;
+}
+.row {
+    display: inline-block;
+    display: flex;
+    border: 1px solid black;
+    align-items: center;
+}
+table.iksweb{
+    width: 100%;
+    border-collapse:collapse;
+    border-spacing:0;
+    height: auto;
+}
+table.iksweb,table.iksweb td, table.iksweb th {
+    border: 1px solid #595959;
+}
+table.iksweb td,table.iksweb th {
+    padding: 3px;
+    width: 30px;
+    height: 35px;
+}
+table.iksweb th {
+    background: #347c99;
+    color: #fff;
+    font-weight: normal;
+}
+
+
